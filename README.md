@@ -28,6 +28,7 @@ The hawaii.sqlite database gives us more information than just the temperature; 
 This shows us that June has a mean precipitation rate of 0.136 and December has 0.217, which is a 59% increase. That means December is much rainer than June, and that will affect business at the ice cream shop. 
 
 If we go deeper into the data, we can seperate the precipitation data by station ID and find out if certain areas are more or less prone to rain. The following table reflects that data:
+
 ![stations](/Resources/precipitation_by_station.png)
 
 What we find is that there are some stations where rain is MUCH more prevalent. W. Avy can use this information alongside other information, such as tourism traffic, real-estate costs, etc. in order to find the best location possible for his ice cream business
